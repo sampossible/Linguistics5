@@ -1,0 +1,2 @@
+rootProject.name='Linguistics4'
+include ':app'
